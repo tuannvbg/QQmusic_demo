@@ -12,12 +12,12 @@ var musicList = [
 		lyric  : "src/data/whxznjgn.lrc"
     },
     {
-        album : '中国新歌声 第1期',
-        title : '心有独钟 (Live) (选择导师：那英)',
-        singer : '李佩玲',
-        cover  : 'http://i.gtimg.cn/music/photo/mid_album_300/X/Q/000ms7UT0LuaXQ.jpg',
-        src    : 'http://dl.stream.qqmusic.qq.com/C200002MMj9u4cWEb5.m4a?vkey=8616E13A803657FA0D3EDC1B77634C485EFD006AF847A81D12106CB0481DE664DFB7C1686053937634D0D3AAE9FE5E9788C64DE034ED42A6&guid=4646573411&fromtag=30',
-		lyric  : "src/data/xydz.lrc"
+        album : 'Nhạc Việt Nam Tuyển Chọn 2021',
+        title : 'Đình Dũng',
+        singer : 'Đình Dũng',
+        cover  : 'https://dl.dropboxusercontent.com/s/o821dzm5efu04vu/Dinh.Dung-Sai.Lam.Cua.Anh.Avatar.jpg',
+        src    : 'https://dl.dropboxusercontent.com/s/09if0qezbrues7v/Dinh.Dung-Sai.Lam.Cua.Anh.mp3',
+	lyric  : "https://dl.dropboxusercontent.com/s/r3evpg942fojbof/Dinh.Dung-Sai.Lam.Cua.Anh.lrc"
     },
     {
         album : '中国新歌声 第1期',
