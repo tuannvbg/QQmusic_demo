@@ -13,7 +13,7 @@ var musicList = [
     },
     {
         album : 'Nhạc Việt Nam Tuyển Chọn 2021',
-        title : 'Đình Dũng',
+        title : 'Sai Lầm Của Anh',
         singer : 'Đình Dũng',
         cover  : 'https://dl.dropboxusercontent.com/s/o821dzm5efu04vu/Dinh.Dung-Sai.Lam.Cua.Anh.Avatar.jpg',
         src    : 'https://dl.dropboxusercontent.com/s/09if0qezbrues7v/Dinh.Dung-Sai.Lam.Cua.Anh.mp3',
